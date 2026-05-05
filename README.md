@@ -136,7 +136,7 @@ streamlit run app.py
 
 ### 👥 Segmentation
 <p align="center">
-  <img src="assets/images/dashboard.png" width="700"/>
+  <img src="assets/images/segmentation.png" width="700"/>
 </p>
 
 ### 🔮 Churn Prediction
