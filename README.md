@@ -129,7 +129,20 @@ streamlit run app.py
 
 ## 📸 Dashboard Preview
 
-*(Add screenshots here for better impact)*
+### 🏠 Overview
+<p align="center">
+  <img src="assets/images/dashboard.png" width="700"/>
+</p>
+
+### 👥 Segmentation
+<p align="center">
+  <img src="assets/images/dashboard.png" width="700"/>
+</p>
+
+### 🔮 Churn Prediction
+<p align="center">
+  <img src="assets/images/churn.png" width="700"/>
+</p>
 
 ---
 
